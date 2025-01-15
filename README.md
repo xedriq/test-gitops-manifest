@@ -1,2 +1,2 @@
-# code-base
-repo for test code base for gitops with helm
+# test-gitops-manifest
+manifest for testing gitops with helm
