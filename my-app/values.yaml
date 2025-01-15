@@ -1,1 +1,4 @@
 app_name: my-test-app
+image:
+  repository: nginx
+  tag: latest
