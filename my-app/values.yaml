@@ -1,4 +1,4 @@
 app_name: my-test-app
 image:
-  repository: nginx
+  repository: xedriq/my-app
   tag: latest
