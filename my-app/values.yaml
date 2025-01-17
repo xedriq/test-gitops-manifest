@@ -1,4 +1,4 @@
 app_name: my-test-app
 image:
   repository: xedriq/my-app
-  tag: v25.1.16.43
+  tag: v25.1.18.1
